@@ -16,13 +16,13 @@ export function Footer() {
 
           <div className="space-y-3">
             <Link
-              href="https://linkedin.com/in/hammad-masood"
+              href="https://www.linkedin.com/in/hammadmasood221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-all hover:translate-x-1"
             >
               <Linkedin size={20} />
-              <span>linkedin.com/in/hammad-masood</span>
+              <span>linkedin/hammad-masood</span>
             </Link>
             <Link
               href="mailto:hammad.masood@gmail.com"
@@ -36,7 +36,7 @@ export function Footer() {
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-all hover:translate-x-1"
             >
               <Phone size={20} />
-              <span>+1 (234) 567-890</span>
+              <span>+92 318 4264113</span>
             </Link>
           </div>
         </div>

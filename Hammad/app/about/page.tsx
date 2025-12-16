@@ -128,7 +128,7 @@ export default function AboutPage() {
             </div>
             <div className="space-y-4">
               <div>
-                <h3 className="text-xl font-semibold mb-2">Bachelor's in Computer Science</h3>
+                <h3 className="text-xl font-semibold mb-2">Bachelor's in Information Technology </h3>
                 <p className="text-muted-foreground">
                   Specialized in software development, data structures, and digital marketing strategies
                 </p>
@@ -154,7 +154,7 @@ export default function AboutPage() {
             <div className="space-y-6">
               <div className="border-l-2 border-primary pl-6">
                 <h3 className="text-xl font-semibold mb-2">SEO Consultant & Strategist</h3>
-                <p className="text-primary mb-2">2020 - Present</p>
+                <p className="text-primary mb-2">2022 - Present</p>
                 <p className="text-muted-foreground leading-relaxed">
                   Helping businesses achieve top search rankings through comprehensive SEO strategies including
                   technical audits, on-page optimization, strategic link building, and content optimization. Increased
@@ -163,9 +163,9 @@ export default function AboutPage() {
               </div>
               <div className="border-l-2 border-accent pl-6">
                 <h3 className="text-xl font-semibold mb-2">Flutter Developer</h3>
-                <p className="text-accent mb-2">2019 - Present</p>
+                <p className="text-accent mb-2">2023 - Present</p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Developed 30+ high-performance cross-platform mobile applications for startups and enterprises.
+              
                   Specialized in creating beautiful, intuitive user experiences with clean architecture and scalable
                   code that maintainers love.
                 </p>
