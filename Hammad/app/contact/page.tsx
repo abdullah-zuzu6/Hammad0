@@ -27,7 +27,6 @@ export default function ContactPage() {
       value:"linkedin/hammad-masood",
       
     },
-    
     {
       icon: Mail,
       label: "Email",
