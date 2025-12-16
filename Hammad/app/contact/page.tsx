@@ -25,14 +25,14 @@ export default function ContactPage() {
       icon: Linkedin,
       label: "LinkedIn",
       value:"linkedin/hammad-masood",
-      href: "https://www.linkedin.com/in/hammadmasood221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      href: "https://www.linkedin.com/in/hammadmasood221",
     },
     
     {
       icon: Mail,
       label: "Email",
-      value: "hammad.masood@gmail.com",
-      href: "mailto:hammad.masood@gmail.com",
+      value: "Hmasood302@gmail.com",
+      href: "Hmasood302@gmail.com",
     },
     {
       icon: Phone,

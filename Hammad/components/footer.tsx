@@ -16,7 +16,7 @@ export function Footer() {
 
           <div className="space-y-3">
             <Link
-              href="https://www.linkedin.com/in/hammadmasood221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              href="https://www.linkedin.com/in/hammadmasood221"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-all hover:translate-x-1"
@@ -25,11 +25,11 @@ export function Footer() {
               <span>linkedin/hammad-masood</span>
             </Link>
             <Link
-              href="mailto:hammad.masood@gmail.com"
+              href="Hmasood302@gmail.com"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-all hover:translate-x-1"
             >
               <Mail size={20} />
-              <span>hammad.masood@gmail.com</span>
+              <span>Hmasood302@gmail.com</span>
             </Link>
             <Link
               href="tel:+1234567890"
