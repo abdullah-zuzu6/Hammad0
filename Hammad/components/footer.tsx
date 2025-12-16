@@ -25,14 +25,14 @@ export function Footer() {
               <span>linkedin/hammad-masood</span>
             </Link>
             <Link
-              href="Hmasood302@gmail.com"
+              
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-all hover:translate-x-1"
             >
               <Mail size={20} />
               <span>Hmasood302@gmail.com</span>
             </Link>
             <Link
-              href="tel:+1234567890"
+              
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-all hover:translate-x-1"
             >
               <Phone size={20} />
