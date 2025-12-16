@@ -24,9 +24,10 @@ export default function ContactPage() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value:"https://www.linkedin.com/in/hammadmasood221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      href: "linkedin/hammad-masood",
+      value:"linkedin/hammad-masood",
+      href: "https://www.linkedin.com/in/hammadmasood221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
+    
     {
       icon: Mail,
       label: "Email",
