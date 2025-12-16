@@ -104,7 +104,7 @@ export default function Home() {
 
               <motion.p variants={itemVariants} className="text-lg text-muted-foreground max-w-xl leading-relaxed">
                 Transforming businesses through strategic SEO optimization and building exceptional mobile experiences.
-                Let's take your digital presence to the next level.
+                Let's take your digital presence to the Next level.
               </motion.p>
 
               <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-4 pt-4">
